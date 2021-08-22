@@ -1,0 +1,7 @@
+//chrissstrahl - temptest
+const char *msg;
+msg = "fakk2 code works";
+gi.SendServerCommand(edict - g_entities, "print \"%s\"", msg);
+	
+	
+//chrissstrahl - code incompatibility fix
